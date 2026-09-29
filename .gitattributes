@@ -1,0 +1,2 @@
+# Preserve the research snapshot byte-for-byte, including mixed CRLF/LF files.
+* -text
