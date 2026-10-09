@@ -1,5 +1,7 @@
 # RipplePLM
 
+[Paper (arXiv)](https://arxiv.org/abs/2610.01891) | [Dataset (Hugging Face)](https://huggingface.co/datasets/GreatCaptainNemo/RipplePLM-data)
+
 Official code for [NeurIPS 2026] RipplePLM: Structural and Property Decoupling for Protein Mutation Effect Generation.
 
 ## Overview
