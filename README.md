@@ -105,3 +105,14 @@ PY
 ```
 
 Predictions are appended to `outputs/DSLlama_${SPLIT}_s2_merged/result.jsonl`, with `gen` for generated text and `gt` for the reference. Metrics are reported on a 0–1 scale.
+
+## Citation
+
+```bibtex
+@article{lv2026rippleplm,
+  title={RipplePLM: Structural and Property Decoupling for Protein Mutation Effect Generation},
+  author={Lv, Liuzhenghao and Liu, Yuyang and Gao, Yuyang and Yuan, Li and Tian, Yonghong},
+  journal={arXiv preprint arXiv:2610.01891},
+  year={2026}
+}
+```
